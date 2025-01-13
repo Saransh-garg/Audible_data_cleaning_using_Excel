@@ -1,9 +1,9 @@
+
 # **Audible_Data_Cleaning**
 ## **Project Description**
 This project demonstrates how to clean and standardize an Audible dataset using Power Query Editor in Excel. The objective is to prepare the dataset for further analysis by ensuring data consistency, correct formatting, and proper structure. The dataset includes columns such as name, author, release date, price, and ratings, and the goal is to transform these columns to make the data more uniform and ready for analysis.
 ## **Project Objectives**
 **Data Cleaning and Preparation:** 
-
 - Standardize the name column.
 - Separate combined author names.
 - Ensure consistent date formatting in the release date column.
@@ -11,7 +11,6 @@ This project demonstrates how to clean and standardize an Audible dataset using 
 - Merge release date and language columns into a single new column.
 - Ensure currency formatting in the price column.
 **Data Analysis Readiness:**
-
 - Format data so that it’s ready for more in-depth analysis.
 ## **Tasks and Steps**
 ### **1. Standardize Name Column**   
@@ -55,15 +54,10 @@ This project demonstrates how to clean and standardize an Audible dataset using 
   - Select the "price" column and set the format to a numeric type with two decimal places using the Transform tab.
 ## **Steps to Clean and Standardize the Dataset**
 **Open Power Query Editor:**
-
 Load your dataset into Power Query Editor in Excel to begin cleaning and transforming the data.
-
 **Apply Transformations:**
-
 Follow the tasks outlined above to clean and standardize the dataset using Power Query Editor.
-
 **Final Steps:**
-
 - **Apply Changes:** Once all transformations are complete, click "Close & Load" to load the cleaned dataset back into Excel.
 - **Verify Data:** Review the dataset to ensure all transformations have been applied correctly, ensuring the data is ready for analysis.
 ## **Technologies Used**
